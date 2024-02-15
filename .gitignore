@@ -1,0 +1,7 @@
+node_modules
+/bin/configlet
+/bin/configlet.exe
+/pnpm-lock.yaml
+/yarn.lock
+.idea
+.exercism
